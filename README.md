@@ -1,2 +1,1 @@
-# budget-tracker
-A Progressive Web Applications (PWA) demonstration
+# Budget Tracker Starter Code
